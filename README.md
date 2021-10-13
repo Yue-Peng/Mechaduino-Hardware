@@ -1,3 +1,5 @@
+# 一个基于Arduino的磁编码闭环一体驱动，效果还不错，代码对新手很友好。
+
 ![image](images/header.png)
 
 Engineers use servo motors to achieve the precision motion required in applications such as robotics, automation, and CNC manufacturing. Like RC servos, industrial servos actively correct for external disturbances. Unlike RC servos, industrial servos can provide very accurate motion, and often support advanced motion control modes. Unfortunately the cost of industrial servos is prohibitive to the individual maker (thousands of dollars per motor).
